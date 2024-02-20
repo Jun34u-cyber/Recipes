@@ -113,6 +113,23 @@ Total amount of all ingredients:
 		Season to taste here too
 	Serve over rice and garnish with **cilantro**
 
-# More Information:
+## Notes
+**First Attempt**
+```
+Original recipe called for 3/4 cup of tomato paste but we used sauce instead.
+Added onions and peppers to the roasting tray for extra deliciousness
+Extra yogurt is good to have if it gets too spicy
+Trader Joe's Naan is good, but the stuff from Patel Brothers is better
+We used boneless chicken thighs but did not cut them up
+```
+**Second Attempt**
+```
+Made it with my mom in Houston
+We used tomato paste but we both wished it had a sauce-ier consistency
+	Definitely using tomato sauce next time
+We used bone-in chicken thighs. I think it added some flavor but I don't feel like it's worth the effort of de-boning
+	Shredded the chicken for Grandma, which actually was really good
+```
+## More Information:
 Goes With: [[Rice-Cooker Rice]]
 #IndianFood #HaveMade #Favorite

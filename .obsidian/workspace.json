@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Side Dishes/Risotto (Base).md",
+                "file": "Main Dishes/Chicken Makhani (Butter Chicken).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics/Rice-Cooker Rice.md",
+                "file": "Main Dishes/Pasta Sauce (Red).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Side Dishes/Risotto (Base).md",
+                "file": "Main Dishes/Pasta Sauce (Red).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Side Dishes/Risotto (Base).md",
+                "file": "Main Dishes/Pasta Sauce (Red).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Side Dishes/Risotto (Base).md"
+                "file": "Main Dishes/Pasta Sauce (Red).md"
               }
             }
           }
@@ -159,15 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db5e32ac65dcd41e",
+  "active": "a186f529e2a204d9",
   "lastOpenFiles": [
+    "Main Dishes/Chicken Makhani (Butter Chicken).md",
+    "Main Dishes/Pasta Sauce (Red).md",
+    "Side Dishes/Risotto (Base).md",
+    "Side Dishes/Mushroom Risotto.md",
     "Main Dishes/Untitled",
     "Untitled",
     "Basics",
-    "Side Dishes/Risotto (Base).md",
     "Basics/Rice-Cooker Rice.md",
-    "Side Dishes/Mushroom Risotto.md",
-    "Main Dishes/Chicken Makhani (Butter Chicken).md",
     "Welcome.md",
     "Side Dishes",
     "Main Dishes"
