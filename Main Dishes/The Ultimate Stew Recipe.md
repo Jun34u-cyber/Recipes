@@ -9,7 +9,8 @@ Make this when you have plenty of free time to prove that you are the true heir 
 * Parsnips
 * Jalapenos
 * 5+ Red Onions
-* 5+ White Onions
+* 5+ Yellow Onions
+* Some White Onions for extra measure
 * Garlic
 ##### Meat
 * Cubed stew beef
@@ -29,7 +30,7 @@ Make this when you have plenty of free time to prove that you are the true heir 
 ## Getting Ready
 ### The Onions
 Yes, this has caramelized onions. Yes, it is worth it. Now shut the fuck up and get to chopping.
-1) Chop up **red onions** and **white onions**.
+1) Chop up **onions**.
 2) Heat **ghee** in a big pot over low heat
 3) Put onions in the pot
 4) Stir in herbs:
