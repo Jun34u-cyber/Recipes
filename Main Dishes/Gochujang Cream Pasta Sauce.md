@@ -1,20 +1,24 @@
 # Shopping List
 **Meat**
 * Pancetta - 12 oz
+
 **Produce**
 * Jalapenos - 4
 * Red Onion - 3
 * Garlic - 2 Heads
 * Baby Bella Mushrooms - 16 oz
 * Spinach - ?
+
 **Dairy**
 * Whole Milk - 1.25 Cups
 * Butter - 1 Tablespoon
 * Gruyere Cheese (Grated)
+
 **Pantry**
 *  Gochujang - 2 Tablespoons
 * Pasta!
 * Red Wine
+
 **Spices**
 * Basil
 * Italian Spices
