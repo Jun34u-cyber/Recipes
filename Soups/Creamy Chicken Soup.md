@@ -76,3 +76,5 @@ While the bone broth is cooking:
 	* Pepper
 	* Lime Juice
 	* Curry Powder
+4) Air fry Jalapeno circles
+5) Serve soup with bread and fried jalapeno rounds on top
