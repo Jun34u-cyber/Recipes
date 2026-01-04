@@ -17,6 +17,7 @@ This soup will cure all of your ills...
 * lime juice
 * Curry powder
 * Miso paste
+* ~ 1 lb mushrooms
 
 1) Preheat oven to 400
 2) Clean leeks
@@ -39,14 +40,19 @@ This soup will cure all of your ills...
 While the bone broth is cooking:
 * shred chicken
 #### Soup Prep
-1) Chop remaining vegetables into large pieces:
+1) Wash the following:
+	* Mushrooms
+		* Yes, we can get them wet, they're going in soup
+	* Kale
+2) Chop remaining vegetables into large pieces:
 	* Leek
 	* 2 small onions
 	* 2 heads of garlic (after peeling)
 	* 4 carrots
 	* 3 cups Kale
-2) Grate remaining thumb of ginger
-3) Slice jalapeno into thin rounds
+	* Mushrooms
+3) Grate remaining thumb of ginger
+4) Slice jalapeno into thin rounds
 
 ## To Make
 #### Soup Base
@@ -57,6 +63,7 @@ While the bone broth is cooking:
 	* Carrot
 	* Grated Ginger
 	* Curry Powder
+	* Mushrooms
 2) Once the veggies have cooked down a bit, add the following, and stir:
 	* Brown rice
 	* lentils
